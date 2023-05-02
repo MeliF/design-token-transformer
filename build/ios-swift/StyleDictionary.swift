@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Fri, 15 Jul 2022 19:49:49 GMT
+// Generated on Tue, 02 May 2023 11:42:46 GMT
 
 
 import UIKit
@@ -35,6 +35,7 @@ public class StyleDictionary {
     public static let fontBodyItalic = "[object Object]"
     public static let fontBodyMediumExtendedItalic = "[object Object]"
     public static let fontBodySuper = "[object Object]"
+    public static let fontBodyVariableFont = "[object Object]"
     public static let gradientGradientMultiplegrad0 = [object Object]
     public static let gradientGradientMultiplegrad1 = [object Object]
     public static let gradientGradientMultiplegrad2 = [object Object]
@@ -54,6 +55,7 @@ public class StyleDictionary {
     public static let motionDissolve = [object Object]
     public static let motionMoveIn = [object Object]
     public static let motionPush = [object Object]
+    public static let motionSlide = [object Object]
     public static let motionSmart = [object Object]
     public static let opacities025 = 0.25
     public static let opacityFull = 1
@@ -108,7 +110,6 @@ public class StyleDictionary {
     public static let typographyBodyH4StrikeThroughLineHeight = 19.2
     public static let typographyBodyH4StrikeThroughParagraphIndent = 0
     public static let typographyBodyH4StrikeThroughParagraphSpacing = 0
-    public static let typographyBodyH4StrikeThroughTextCase = none
     public static let typographyBodyH4StrikeThroughTextDecoration = line-through
     public static let typographyBodyItalicFontFamily = Roboto
     public static let typographyBodyItalicFontSize = 12
@@ -143,4 +144,14 @@ public class StyleDictionary {
     public static let typographyBodySuperParagraphSpacing = 0
     public static let typographyBodySuperTextCase = none
     public static let typographyBodySuperTextDecoration = none
+    public static let typographyBodyVariableFontFontFamily = Roboto
+    public static let typographyBodyVariableFontFontSize = 16
+    public static let typographyBodyVariableFontFontStretch = normal
+    public static let typographyBodyVariableFontFontStyle = italic
+    public static let typographyBodyVariableFontFontWeight = 500
+    public static let typographyBodyVariableFontLetterSpacing = 0
+    public static let typographyBodyVariableFontLineHeight = 19.2
+    public static let typographyBodyVariableFontParagraphIndent = 0
+    public static let typographyBodyVariableFontParagraphSpacing = 0
+    public static let typographyBodyVariableFontTextDecoration = line-through
 }
