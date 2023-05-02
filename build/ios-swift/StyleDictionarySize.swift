@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Fri, 15 Jul 2022 19:49:49 GMT
+// Generated on Tue, 02 May 2023 11:42:46 GMT
 
 
 import UIKit
@@ -16,4 +16,5 @@ public enum StyleDictionarySize {
     public static let bodyItalicFontWeight = 400
     public static let bodyMediumExtendedItalicFontWeight = 500
     public static let bodySuperFontWeight = 900
+    public static let bodyVariableFontFontWeight = 500
 }

@@ -1,6 +1,6 @@
 
 // Do not edit directly
-// Generated on Fri, 15 Jul 2022 19:49:49 GMT
+// Generated on Tue, 02 May 2023 11:42:45 GMT
 
 $sizes-32: 32.72px;
 $sizes-40: 40px;
@@ -28,6 +28,7 @@ $borders-unsupported-multiple-borders: [object Object];
 $radius-5: [object Object];
 $radii-smoothing: [object Object];
 $radii-mixed: [object Object];
+$motion-slide: [object Object];
 $motion-move-in: [object Object];
 $motion-dissolve: [object Object];
 $motion-smart: [object Object];
@@ -42,12 +43,12 @@ $gradient-gradient-multiplegrad-0: [object Object];
 $gradient-gradient-multiplegrad-1: [object Object];
 $gradient-gradient-multiplegrad-2: [object Object];
 $gradient-gradient-multiplegrad-3: [object Object];
-$color-colors-semi-red: #ff5f04;
+$color-colors-semi-red: rgba(255, 95, 4, 0.5);
 $color-colors-multiple-fills-0: #40ffba;
-$color-colors-multiple-fills-1: #000000;
+$color-colors-multiple-fills-1: rgba(0, 0, 0, 0.1);
 $color-colors-single-blue: #044aff;
 $color-colors-ref-blue: #044aff;
-$color-colors-empty: #000000;
+$color-colors-empty: rgba(0, 0, 0, 0);
 $color-colors-special-characters: #40df50;
 $color-colors-special-characters-nderung: #3456af;
 $grid-multiple-0: [object Object];
@@ -59,6 +60,7 @@ $grid-multiple-5: [object Object];
 $grid-multiple-6: [object Object];
 $grid-multiple-7: [object Object];
 $grid-single: [object Object];
+$font-body-variable-font: [object Object];
 $font-body-h3: [object Object];
 $font-body-h4-strike-through: [object Object];
 $font-body-italic: [object Object];
@@ -69,6 +71,16 @@ $effect-drop-shadow-single: [object Object];
 $effect-inner-shadow-multiple-0: [object Object];
 $effect-inner-shadow-multiple-1: [object Object];
 $effect-inner-shadow-multiple-2: [object Object];
+$typography-body-variable-font-font-size: 16px;
+$typography-body-variable-font-text-decoration: line-through;
+$typography-body-variable-font-font-family: Roboto;
+$typography-body-variable-font-font-weight: 500;
+$typography-body-variable-font-font-style: italic;
+$typography-body-variable-font-font-stretch: normal;
+$typography-body-variable-font-letter-spacing: 0;
+$typography-body-variable-font-line-height: 19.2px;
+$typography-body-variable-font-paragraph-indent: 0;
+$typography-body-variable-font-paragraph-spacing: 0;
 $typography-body-h3-font-size: 20px;
 $typography-body-h3-text-decoration: none;
 $typography-body-h3-font-family: Akzidenz-Grotesk Pro;
@@ -90,7 +102,6 @@ $typography-body-h4-strike-through-letter-spacing: 0;
 $typography-body-h4-strike-through-line-height: 19.2px;
 $typography-body-h4-strike-through-paragraph-indent: 0;
 $typography-body-h4-strike-through-paragraph-spacing: 0;
-$typography-body-h4-strike-through-text-case: none;
 $typography-body-italic-font-size: 12px;
 $typography-body-italic-text-decoration: none;
 $typography-body-italic-font-family: Roboto;
