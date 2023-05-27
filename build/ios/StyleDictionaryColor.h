@@ -4,14 +4,15 @@
 //
 
 // Do not edit directly
-// Generated on Sat, 27 May 2023 13:12:51 GMT
+// Generated on Sat, 27 May 2023 13:28:19 GMT
 
 
 #import <UIKit/UIKit.h>
 
 typedef NS_ENUM(NSInteger, StyleDictionaryColorName) {
-ColorTestcolor0,
-ColorTestcolor1,
+ColorColorprimary0,
+ColorColorprimary1,
+ColorColorsecondary,
 ColorColorsSemiRed,
 ColorColorsMultipleFills0,
 ColorColorsMultipleFills1,

@@ -132,10 +132,10 @@
     }
   },
   "color": {
-    "testcolor": {
+    "colorprimary": {
       "0": {
         "type": "color",
-        "value": "#40ffffff",
+        "value": "#e037fcff",
         "blendMode": "normal"
       },
       "1": {
@@ -143,10 +143,22 @@
         "value": "#0000001a",
         "blendMode": "normal"
       },
-      "description": "testing",
+      "description": "",
       "extensions": {
         "org.lukasoppermann.figmaDesignTokens": {
           "styleId": "S:aa5534c985c25c4ce8c4a23eed8ade496137478a,",
+          "exportKey": "color"
+        }
+      }
+    },
+    "colorsecondary": {
+      "description": "",
+      "type": "color",
+      "value": "#5c016bff",
+      "blendMode": "normal",
+      "extensions": {
+        "org.lukasoppermann.figmaDesignTokens": {
+          "styleId": "S:116add00393256e0f4e68ec776dab979122089bd,",
           "exportKey": "color"
         }
       }

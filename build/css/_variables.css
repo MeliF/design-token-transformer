@@ -12,8 +12,9 @@
   --sizes-frame: 32px;
   --sizes-rect: 32px;
   --sizes-shape-in-component: 32px;
-  --color-testcolor-0: #40ffff;
-  --color-testcolor-1: rgba(0, 0, 0, 0.1);
+  --color-colorprimary-0: #e037fc;
+  --color-colorprimary-1: rgba(0, 0, 0, 0.1);
+  --color-colorsecondary: #5c016b;
   --color-colors-semi-red: rgba(255, 95, 4, 0.5);
   --color-colors-multiple-fills-0: #40ffba;
   --color-colors-multiple-fills-1: rgba(0, 0, 0, 0.1);
