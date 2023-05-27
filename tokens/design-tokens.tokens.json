@@ -1,17 +1,7 @@
 {
   "sizes": {
-    "32": {
-      "description": "32.72px spacer component",
-      "value": 32.72,
-      "type": "dimension",
-      "extensions": {
-        "org.lukasoppermann.figmaDesignTokens": {
-          "exportKey": "size"
-        }
-      }
-    },
     "40": {
-      "description": null,
+      "description": "32.72px spacer component",
       "value": 40,
       "type": "dimension",
       "extensions": {
