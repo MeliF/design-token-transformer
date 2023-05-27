@@ -4,13 +4,13 @@
 //
 
 // Do not edit directly
-// Generated on Sat, 27 May 2023 14:00:41 GMT
+// Generated on Sat, 27 May 2023 14:26:10 GMT
 
 
 import UIKit
 
 public class StyleDictionary {
-    public static let colorColorprimary = UIColor(red: 0.878, green: 0.216, blue: 0.988, alpha: 1)
+    public static let colorColorprimary = UIColor(red: 0.216, green: 0.616, blue: 0.988, alpha: 1)
     public static let colorColorprimarytext = UIColor(red: 0.000, green: 0.000, blue: 0.000, alpha: 1)
     public static let colorColorsEmpty = UIColor(red: 0.000, green: 0.000, blue: 0.000, alpha: 0)
     public static let colorColorsMultipleFills0 = UIColor(red: 0.251, green: 1.000, blue: 0.729, alpha: 1)
@@ -20,11 +20,12 @@ public class StyleDictionary {
     public static let colorColorsSingleBlue = UIColor(red: 0.016, green: 0.290, blue: 1.000, alpha: 1)
     public static let colorColorsSpecialCharacters = UIColor(red: 0.251, green: 0.875, blue: 0.314, alpha: 1)
     public static let colorColorsSpecialCharactersNderung = UIColor(red: 0.204, green: 0.337, blue: 0.686, alpha: 1)
-    public static let colorColorsecondary = UIColor(red: 0.361, green: 0.004, blue: 0.420, alpha: 1)
+    public static let colorColorsecondary = UIColor(red: 0.176, green: 0.192, blue: 0.525, alpha: 1)
     public static let colorColorsecondarytext = UIColor(red: 0.851, green: 0.851, blue: 0.851, alpha: 1)
+    public static let sizes20 = 20
     public static let sizes40 = 40
-    public static let sizes60 = 60
-    public static let sizes80 = 80
+    public static let sizes60 = 40
+    public static let sizes80 = 16
     public static let sizesFrame = 32
     public static let sizesInVariant120 = 120
     public static let sizesInVariant60 = 60
