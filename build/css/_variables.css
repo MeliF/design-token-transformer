@@ -1,9 +1,7 @@
 :root {
-  --sizes-16: 80px;
+  --sizes-16: 16px;
   --sizes-20: 20px;
   --sizes-40: 40px;
-  --sizes-60: 40px;
-  --sizes-80: 16px;
   --sizes-plain-token: 200px;
   --sizes-token-in-frame: 200px;
   --sizes-token-in-group: 200px;
