@@ -12,9 +12,6 @@
   --sizes-frame: 32px;
   --sizes-rect: 32px;
   --sizes-shape-in-component: 32px;
-  --breakpoints-lg: 1280px;
-  --breakpoints-sm: 768px;
-  --breakpoints-md: 1024px;
   --color-testcolor-0: #40ffff;
   --color-testcolor-1: rgba(0, 0, 0, 0.1);
   --color-colors-semi-red: rgba(255, 95, 4, 0.5);
