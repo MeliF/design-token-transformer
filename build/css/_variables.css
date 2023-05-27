@@ -15,6 +15,8 @@
   --breakpoints-lg: 1280px;
   --breakpoints-sm: 768px;
   --breakpoints-md: 1024px;
+  --color-testcolor-0: #cd40ff;
+  --color-testcolor-1: rgba(0, 0, 0, 0.1);
   --color-colors-semi-red: rgba(255, 95, 4, 0.5);
   --color-colors-multiple-fills-0: #40ffba;
   --color-colors-multiple-fills-1: rgba(0, 0, 0, 0.1);

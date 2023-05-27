@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+  Do not edit directly
+  Generated on Sat, 27 May 2023 08:50:48 GMT
+-->
+<resources>
+  <color name="color_testcolor_0">#cd40ff</color>
+  <color name="color_testcolor_1">#000000</color>
+  <color name="color_colors_semi_red">#ff5f04</color>
+  <color name="color_colors_multiple_fills_0">#40ffba</color>
+  <color name="color_colors_multiple_fills_1">#000000</color>
+  <color name="color_colors_single_blue">#044aff</color>
+  <color name="color_colors_ref_blue">#044aff</color>
+  <color name="color_colors_empty">#000000</color>
+  <color name="color_colors_special_characters">#40df50</color>
+  <color name="color_colors_special_characters_nderung">#3456af</color>
+  
+</resources>
