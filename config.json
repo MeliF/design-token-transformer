@@ -115,7 +115,7 @@
       }]
     },
     "android-size": {
-      "transforms": ["attribute/cti", "name/cti/camel", "size/remToDp"],
+      "transforms": ["attribute/cti", "name/cti/camel", "size/remToDp", "android/pxToDp"],
       "buildPath": "build/android/",
       "files": [{
         "destination": "style_dictionary_size.xml",
