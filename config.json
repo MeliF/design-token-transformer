@@ -22,7 +22,6 @@
         "attribute/cti",
         "name/cti/snake",
         "color/hex",
-        "color/composeColor",
         "size/remToSp",
         "size/remToDp"
       ],
@@ -31,14 +30,6 @@
         {
           "destination": "style_dictionary_colors.xml",
           "format": "android/colors"
-        },
-        {
-          "destination": "style_dictionary_colors.kt",
-          "className": "StyleDictionaryColor",
-          "format": "compose/object",
-          "options": {
-            "outputReferences": false
-          }
         },
         {
           "destination": "style_dictionary_size.xml",
