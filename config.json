@@ -106,17 +106,26 @@
         }
       }]
     },
-    "android": {
-      "transformGroup": "android",
-      "buildPath": "build/android/",
+
+    "android-color": {
+      "transforms": ["attribute/cti", "name/cti/camel", "color/hex"],
+      "buildPath": "build/android/src/main/res/values/",
       "files": [{
         "destination": "style_dictionary_colors.xml",
         "format": "android/colors"
-      },
-        {
-          "destination": "style_dictionary_size.xml",
-          "format": "android/resources"
-        }]
+      }]
+    },
+    "android-size": {
+      "transforms": ["attribute/cti", "name/cti/camel", "size/remToDp"],
+      "buildPath": "build/android/src/main/res/values/",
+      "files": [{
+        "destination": "style_dictionary_size.xml",
+        "resourceType": "dimen",
+        "format": "android/resources",
+        "filter": {
+          "attributes": { "category": "sizes" }
+        }
+      }]
     }
   }
 }

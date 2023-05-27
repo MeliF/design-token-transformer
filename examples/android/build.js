@@ -41,7 +41,9 @@ const StyleDictionaryExtended = StyleDictionary.extend({
           destination: 'values/dimens.xml',
           format: 'android/resources',
           resourceType: 'dimen',
-          filter: (token) => token.type === 'dimension' || token.type === 'custom-fontStyle'
+          filter: (token) => {
+            return token.type === 'dimension';
+          }
         },
         {
           destination: 'values/colors.xml',
