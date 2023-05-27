@@ -34,7 +34,11 @@
         {
           "destination": "style_dictionary_size.xml",
           "className": "StyleDictionarySizes",
-          "format": "android/dimens"
+          "format": "android/dimens",
+          "type": "float",
+          "filter": {
+            "type": "number"
+          }
         }
       ]
     }
