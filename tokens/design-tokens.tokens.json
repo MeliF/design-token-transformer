@@ -1,8 +1,8 @@
 {
   "sizes": {
-    "32": {
-      "description": "32.72px spacer component",
-      "value": 32.72,
+    "20": {
+      "description": null,
+      "value": 20,
       "type": "dimension",
       "extensions": {
         "org.lukasoppermann.figmaDesignTokens": {
@@ -11,7 +11,7 @@
       }
     },
     "40": {
-      "description": null,
+      "description": "32.72px spacer component",
       "value": 40,
       "type": "dimension",
       "extensions": {
@@ -22,7 +22,7 @@
     },
     "60": {
       "description": null,
-      "value": 60,
+      "value": 40,
       "type": "dimension",
       "extensions": {
         "org.lukasoppermann.figmaDesignTokens": {
@@ -32,7 +32,7 @@
     },
     "80": {
       "description": null,
-      "value": 80,
+      "value": 16,
       "type": "dimension",
       "extensions": {
         "org.lukasoppermann.figmaDesignTokens": {
@@ -135,7 +135,7 @@
     "colorsecondary": {
       "description": "",
       "type": "color",
-      "value": "#5c016bff",
+      "value": "#2d3186ff",
       "blendMode": "normal",
       "extensions": {
         "org.lukasoppermann.figmaDesignTokens": {
@@ -147,7 +147,7 @@
     "colorprimary": {
       "description": "",
       "type": "color",
-      "value": "#e037fcff",
+      "value": "#379dfcff",
       "blendMode": "normal",
       "extensions": {
         "org.lukasoppermann.figmaDesignTokens": {

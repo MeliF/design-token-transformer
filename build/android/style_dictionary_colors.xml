@@ -2,11 +2,11 @@
 
 <!--
   Do not edit directly
-  Generated on Sat, 27 May 2023 13:39:04 GMT
+  Generated on Sat, 27 May 2023 14:26:10 GMT
 -->
 <resources>
-  <color name="colorsecondary">#5c016b</color>
-  <color name="colorprimary">#e037fc</color>
+  <color name="colorsecondary">#2d3186</color>
+  <color name="colorprimary">#379dfc</color>
   <color name="colorprimarytext">#000000</color>
   <color name="colorsecondarytext">#d9d9d9</color>
   <color name="colorsSemiRed">#ff5f04</color>
