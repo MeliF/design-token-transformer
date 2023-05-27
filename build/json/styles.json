@@ -1,7 +1,8 @@
 {
+  "Sizes20": 20,
   "Sizes40": 40,
-  "Sizes60": 60,
-  "Sizes80": 80,
+  "Sizes60": 40,
+  "Sizes80": 16,
   "SizesPlainToken": 200,
   "SizesTokenInFrame": 200,
   "SizesTokenInGroup": 200,

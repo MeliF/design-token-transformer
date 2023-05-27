@@ -1,5 +1,15 @@
 {
   "sizes": {
+    "20": {
+      "description": null,
+      "value": 20,
+      "type": "dimension",
+      "extensions": {
+        "org.lukasoppermann.figmaDesignTokens": {
+          "exportKey": "size"
+        }
+      }
+    },
     "40": {
       "description": "32.72px spacer component",
       "value": 40,
@@ -12,7 +22,7 @@
     },
     "60": {
       "description": null,
-      "value": 60,
+      "value": 40,
       "type": "dimension",
       "extensions": {
         "org.lukasoppermann.figmaDesignTokens": {
@@ -22,7 +32,7 @@
     },
     "80": {
       "description": null,
-      "value": 80,
+      "value": 16,
       "type": "dimension",
       "extensions": {
         "org.lukasoppermann.figmaDesignTokens": {
