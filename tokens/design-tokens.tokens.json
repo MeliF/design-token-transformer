@@ -2,7 +2,7 @@
   "sizes": {
     "16": {
       "description": null,
-      "value": 80,
+      "value": 16,
       "type": "dimension",
       "extensions": {
         "org.lukasoppermann.figmaDesignTokens": {
@@ -23,26 +23,6 @@
     "40": {
       "description": "32.72px spacer component",
       "value": 40,
-      "type": "dimension",
-      "extensions": {
-        "org.lukasoppermann.figmaDesignTokens": {
-          "exportKey": "size"
-        }
-      }
-    },
-    "60": {
-      "description": null,
-      "value": 40,
-      "type": "dimension",
-      "extensions": {
-        "org.lukasoppermann.figmaDesignTokens": {
-          "exportKey": "size"
-        }
-      }
-    },
-    "80": {
-      "description": null,
-      "value": 16,
       "type": "dimension",
       "extensions": {
         "org.lukasoppermann.figmaDesignTokens": {
