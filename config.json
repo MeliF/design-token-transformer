@@ -14,7 +14,7 @@
       }]
     },
     "android": {
-      "transforms": ["attribute/cti", "name/cti/snake", "color/hex", "size/remToSp", "size/remToDp"],
+      "transforms": ["attribute/cti", "name/cti/snake", "color/hex", "color/composeColor", "size/remToSp", "size/remToDp", "size/compose/remToDp"],
       "buildPath": "build/android/src/main/res/values/",
       "files": [{
         "destination": "style_dictionary_colors.xml",
