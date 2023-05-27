@@ -2,21 +2,21 @@
 
 <!--
   Do not edit directly
-  Generated on Sat, 27 May 2023 13:06:27 GMT
+  Generated on Sat, 27 May 2023 13:12:51 GMT
 -->
 <resources>
-  <dimen name="sizes32">32.72</dimen>
-  <dimen name="sizes40">40</dimen>
-  <dimen name="sizes60">60</dimen>
-  <dimen name="sizes80">80</dimen>
-  <dimen name="sizesPlainToken">200</dimen>
-  <dimen name="sizesTokenInFrame">200</dimen>
-  <dimen name="sizesTokenInGroup">200</dimen>
-  <dimen name="sizesInVariant60">60</dimen>
-  <dimen name="sizesInVariant90">90</dimen>
-  <dimen name="sizesInVariant120">120</dimen>
-  <dimen name="sizesFrame">32</dimen>
-  <dimen name="sizesRect">32</dimen>
-  <dimen name="sizesShapeInComponent">32</dimen>
+  <dimen name="32">32.72</dimen>
+  <dimen name="40">40</dimen>
+  <dimen name="60">60</dimen>
+  <dimen name="80">80</dimen>
+  <dimen name="plainToken">200</dimen>
+  <dimen name="tokenInFrame">200</dimen>
+  <dimen name="tokenInGroup">200</dimen>
+  <dimen name="inVariant60">60</dimen>
+  <dimen name="inVariant90">90</dimen>
+  <dimen name="inVariant120">120</dimen>
+  <dimen name="frame">32</dimen>
+  <dimen name="rect">32</dimen>
+  <dimen name="shapeInComponent">32</dimen>
   
 </resources>

@@ -107,7 +107,7 @@
       }]
     },
     "android-color": {
-      "transforms": ["attribute/cti", "name/cti/camel", "color/hex"],
+      "transforms": ["attribute/cti", "name/ti/camel", "color/hex"],
       "buildPath": "build/android/",
       "files": [{
         "destination": "style_dictionary_colors.xml",
@@ -115,7 +115,7 @@
       }]
     },
     "android-size": {
-      "transforms": ["attribute/cti", "name/cti/camel", "size/remToDp"],
+      "transforms": ["attribute/cti", "name/ti/camel", "size/remToDp"],
       "buildPath": "build/android/",
       "files": [{
         "destination": "style_dictionary_size.xml",
