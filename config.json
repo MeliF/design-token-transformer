@@ -19,28 +19,7 @@
     },
     "android": {
       "transformGroup": "android",
-      "buildPath": "build/android/",
-      "files": [
-        {
-          "destination": "style_dictionary_colors.xml",
-          "format": "android/colors",
-          "className": "StyleDictionaryColor",
-          "type": "StyleDictionaryColorName",
-          "filter": {
-            "type": "color"
-          }
-        },
-        {
-          "destination": "style_dictionary_size.xml",
-          "format": "android/resources",
-          "filter": {
-            "attributes": {
-              "category": "size"
-            }
-          },
-          "className": "StyleDictionarySize"
-        }
-      ]
+      "buildPath": "build/android/"
     }
   }
 }
