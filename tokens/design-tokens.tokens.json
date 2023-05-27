@@ -156,6 +156,30 @@
         }
       }
     },
+    "colorprimarytext": {
+      "description": "",
+      "type": "color",
+      "value": "#000000ff",
+      "blendMode": "normal",
+      "extensions": {
+        "org.lukasoppermann.figmaDesignTokens": {
+          "styleId": "S:eae7fc4aa176eea00ebc59fb092aa369fa0582fb,",
+          "exportKey": "color"
+        }
+      }
+    },
+    "colorsecondarytext": {
+      "description": "",
+      "type": "color",
+      "value": "#d9d9d9ff",
+      "blendMode": "normal",
+      "extensions": {
+        "org.lukasoppermann.figmaDesignTokens": {
+          "styleId": "S:5ce502dea212b56bd38ad58b93c0313c08e09045,",
+          "exportKey": "color"
+        }
+      }
+    },
     "colors": {
       "semi red": {
         "description": "A red with a 50% opacity",
