@@ -530,6 +530,123 @@
       }
     }
   },
+  "color": {
+    "testcolor": {
+      "0": {
+        "type": "color",
+        "value": "#cd40ffff",
+        "blendMode": "normal"
+      },
+      "1": {
+        "type": "color",
+        "value": "#0000001a",
+        "blendMode": "normal"
+      },
+      "description": "testing",
+      "extensions": {
+        "org.lukasoppermann.figmaDesignTokens": {
+          "styleId": "S:aa5534c985c25c4ce8c4a23eed8ade496137478a,",
+          "exportKey": "color"
+        }
+      }
+    },
+    "colors": {
+      "semi red": {
+        "description": "A red with a 50% opacity",
+        "type": "color",
+        "value": "#ff5f0480",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:394ef5aa3bdcfa798619465845abd1c332c9aa29,",
+            "exportKey": "color"
+          }
+        }
+      },
+      "multiple fills": {
+        "0": {
+          "type": "color",
+          "value": "#40ffbaff",
+          "blendMode": "normal"
+        },
+        "1": {
+          "type": "color",
+          "value": "#0000001a",
+          "blendMode": "normal"
+        },
+        "description": "",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:da97fc8842fe820094c4896918e84327e838ad7c,",
+            "exportKey": "color"
+          }
+        }
+      },
+      "single blue": {
+        "description": "",
+        "type": "color",
+        "value": "#044affff",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:4db7612eaf3fc8368d33340a5a4317bd00df7ef0,",
+            "exportKey": "color"
+          }
+        }
+      },
+      "ref blue": {
+        "description": "Some other description",
+        "type": "color",
+        "value": "{color.colors.single blue}",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:032cda4b243511ceefd60df2e2bfcc6721742628,",
+            "exportKey": "color",
+            "alias": "color.colors.single blue"
+          }
+        }
+      },
+      "empty": {
+        "description": "",
+        "type": "color",
+        "value": "#00000000",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:b6d3ca55830a81d5c458b04a84470458eca3c2fe,",
+            "exportKey": "color"
+          }
+        }
+      },
+      "special characters": {
+        "😅": {
+          "description": "Emoji",
+          "type": "color",
+          "value": "#40df50ff",
+          "blendMode": "normal",
+          "extensions": {
+            "org.lukasoppermann.figmaDesignTokens": {
+              "styleId": "S:4dce659294d75343eb8815d1ae514607c1912dfb,",
+              "exportKey": "color"
+            }
+          }
+        },
+        "änderung": {
+          "description": "",
+          "type": "color",
+          "value": "#3456afff",
+          "blendMode": "normal",
+          "extensions": {
+            "org.lukasoppermann.figmaDesignTokens": {
+              "styleId": "S:959c8b7b6ece95d8109676d48c3c4fbe199adcb7,",
+              "exportKey": "color"
+            }
+          }
+        }
+      }
+    }
+  },
   "gradient": {
     "gradient": {
       "single with multiple color stops": {
@@ -638,104 +755,6 @@
           "org.lukasoppermann.figmaDesignTokens": {
             "styleId": "S:65b964a112ed8213c3d1597cb8c4061ba030a26e,",
             "exportKey": "gradient"
-          }
-        }
-      }
-    }
-  },
-  "color": {
-    "colors": {
-      "semi red": {
-        "description": "A red with a 50% opacity",
-        "type": "color",
-        "value": "#ff5f0480",
-        "blendMode": "normal",
-        "extensions": {
-          "org.lukasoppermann.figmaDesignTokens": {
-            "styleId": "S:394ef5aa3bdcfa798619465845abd1c332c9aa29,",
-            "exportKey": "color"
-          }
-        }
-      },
-      "multiple fills": {
-        "0": {
-          "type": "color",
-          "value": "#40ffbaff",
-          "blendMode": "normal"
-        },
-        "1": {
-          "type": "color",
-          "value": "#0000001a",
-          "blendMode": "normal"
-        },
-        "description": "",
-        "extensions": {
-          "org.lukasoppermann.figmaDesignTokens": {
-            "styleId": "S:da97fc8842fe820094c4896918e84327e838ad7c,",
-            "exportKey": "color"
-          }
-        }
-      },
-      "single blue": {
-        "description": "",
-        "type": "color",
-        "value": "#044affff",
-        "blendMode": "normal",
-        "extensions": {
-          "org.lukasoppermann.figmaDesignTokens": {
-            "styleId": "S:4db7612eaf3fc8368d33340a5a4317bd00df7ef0,",
-            "exportKey": "color"
-          }
-        }
-      },
-      "ref blue": {
-        "description": "Some other description",
-        "type": "color",
-        "value": "{color.colors.single blue}",
-        "blendMode": "normal",
-        "extensions": {
-          "org.lukasoppermann.figmaDesignTokens": {
-            "styleId": "S:032cda4b243511ceefd60df2e2bfcc6721742628,",
-            "exportKey": "color",
-            "alias": "color.colors.single blue"
-          }
-        }
-      },
-      "empty": {
-        "description": "",
-        "type": "color",
-        "value": "#00000000",
-        "blendMode": "normal",
-        "extensions": {
-          "org.lukasoppermann.figmaDesignTokens": {
-            "styleId": "S:b6d3ca55830a81d5c458b04a84470458eca3c2fe,",
-            "exportKey": "color"
-          }
-        }
-      },
-      "special characters": {
-        "😅": {
-          "description": "Emoji",
-          "type": "color",
-          "value": "#40df50ff",
-          "blendMode": "normal",
-          "extensions": {
-            "org.lukasoppermann.figmaDesignTokens": {
-              "styleId": "S:4dce659294d75343eb8815d1ae514607c1912dfb,",
-              "exportKey": "color"
-            }
-          }
-        },
-        "änderung": {
-          "description": "",
-          "type": "color",
-          "value": "#3456afff",
-          "blendMode": "normal",
-          "extensions": {
-            "org.lukasoppermann.figmaDesignTokens": {
-              "styleId": "S:959c8b7b6ece95d8109676d48c3c4fbe199adcb7,",
-              "exportKey": "color"
-            }
           }
         }
       }
