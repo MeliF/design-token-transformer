@@ -1,0 +1,161 @@
+
+
+// Do not edit directly
+// Generated on Sat, 27 May 2023 09:48:53 GMT
+
+
+
+package ;
+
+
+import androidx.compose.ui.graphics.Color
+import androidx.compose.ui.unit.*
+
+object StyleDictionaryColor {
+  val borders_dashed_outside = [object Object]
+  val borders_single = [object Object]
+  val borders_single_style = [object Object]
+  val borders_unsupported_multiple_borders = [object Object]
+  val breakpoints_lg = 1280
+  val breakpoints_md = 1024
+  val breakpoints_sm = 768
+  val color_colors_empty = Color(0xff000000)
+  val color_colors_multiple_fills_0 = Color(0xff40ffba)
+  val color_colors_multiple_fills_1 = Color(0xff000000)
+  val color_colors_ref_blue = Color(0xff044aff)
+  val color_colors_semi_red = Color(0xffff5f04)
+  val color_colors_single_blue = Color(0xff044aff)
+  val color_colors_special_characters = Color(0xff40df50)
+  val color_colors_special_characters_nderung = Color(0xff3456af)
+  val color_testcolor_0 = Color(0xffcd40ff)
+  val color_testcolor_1 = Color(0xff000000)
+  val effect_drop_shadow_single = [object Object]
+  val effect_inner_shadow_multiple_0 = [object Object]
+  val effect_inner_shadow_multiple_1 = [object Object]
+  val effect_inner_shadow_multiple_2 = [object Object]
+  val font_body_extra_bold_condensed_italic = [object Object]
+  val font_body_h3 = [object Object]
+  val font_body_h4_strike_through = [object Object]
+  val font_body_italic = [object Object]
+  val font_body_medium_extended_italic = [object Object]
+  val font_body_super = [object Object]
+  val font_body_variable_font = [object Object]
+  val gradient_gradient_multiplegrad_0 = [object Object]
+  val gradient_gradient_multiplegrad_1 = [object Object]
+  val gradient_gradient_multiplegrad_2 = [object Object]
+  val gradient_gradient_multiplegrad_3 = [object Object]
+  val gradient_gradient_single_with_multiple_color_stops = [object Object]
+  val grid_multiple_0 = [object Object]
+  val grid_multiple_1 = [object Object]
+  val grid_multiple_2 = [object Object]
+  val grid_multiple_3 = [object Object]
+  val grid_multiple_4 = [object Object]
+  val grid_multiple_5 = [object Object]
+  val grid_multiple_6 = [object Object]
+  val grid_multiple_7 = [object Object]
+  val grid_single = [object Object]
+  val motion_bouncy = [object Object]
+  val motion_custom_spring = [object Object]
+  val motion_dissolve = [object Object]
+  val motion_move_in = [object Object]
+  val motion_push = [object Object]
+  val motion_slide = [object Object]
+  val motion_smart = [object Object]
+  val opacities_0_25 = 0.25
+  val opacity_full = 1
+  val opacity_half = 0.5
+  val radii_mixed = [object Object]
+  val radii_smoothing = [object Object]
+  val radius_5 = [object Object]
+  val sizes_32 = 32.72
+  val sizes_40 = 40
+  val sizes_60 = 60
+  val sizes_80 = 80
+  val sizes_frame = 32
+  val sizes_in_variant_120 = 120
+  val sizes_in_variant_60 = 60
+  val sizes_in_variant_90 = 90
+  val sizes_plain_token = 200
+  val sizes_rect = 32
+  val sizes_shape_in_component = 32
+  val sizes_token_in_frame = 200
+  val sizes_token_in_group = 200
+  val spacing_10 = [object Object]
+  val spacing_mixed = [object Object]
+  val spacing_top = [object Object]
+  val typography_body_extra_bold_condensed_italic_font_family = Akzidenz-Grotesk Pro
+  val typography_body_extra_bold_condensed_italic_font_size = 12
+  val typography_body_extra_bold_condensed_italic_font_stretch = condensed
+  val typography_body_extra_bold_condensed_italic_font_style = italic
+  val typography_body_extra_bold_condensed_italic_font_weight = 800
+  val typography_body_extra_bold_condensed_italic_letter_spacing = 0
+  val typography_body_extra_bold_condensed_italic_line_height = 14.4
+  val typography_body_extra_bold_condensed_italic_paragraph_indent = 0
+  val typography_body_extra_bold_condensed_italic_paragraph_spacing = 0
+  val typography_body_extra_bold_condensed_italic_text_case = none
+  val typography_body_extra_bold_condensed_italic_text_decoration = none
+  val typography_body_h3_font_family = Akzidenz-Grotesk Pro
+  val typography_body_h3_font_size = 20
+  val typography_body_h3_font_stretch = condensed
+  val typography_body_h3_font_style = normal
+  val typography_body_h3_font_weight = 700
+  val typography_body_h3_letter_spacing = 0.4
+  val typography_body_h3_line_height = 32
+  val typography_body_h3_paragraph_indent = 5
+  val typography_body_h3_paragraph_spacing = 8
+  val typography_body_h3_text_case = uppercase
+  val typography_body_h3_text_decoration = none
+  val typography_body_h4_strike_through_font_family = Roboto
+  val typography_body_h4_strike_through_font_size = 16
+  val typography_body_h4_strike_through_font_stretch = normal
+  val typography_body_h4_strike_through_font_style = italic
+  val typography_body_h4_strike_through_font_weight = 500
+  val typography_body_h4_strike_through_letter_spacing = 0
+  val typography_body_h4_strike_through_line_height = 19.2
+  val typography_body_h4_strike_through_paragraph_indent = 0
+  val typography_body_h4_strike_through_paragraph_spacing = 0
+  val typography_body_h4_strike_through_text_decoration = line-through
+  val typography_body_italic_font_family = Roboto
+  val typography_body_italic_font_size = 12
+  val typography_body_italic_font_stretch = normal
+  val typography_body_italic_font_style = italic
+  val typography_body_italic_font_weight = 400
+  val typography_body_italic_letter_spacing = 0
+  val typography_body_italic_line_height = 14
+  val typography_body_italic_paragraph_indent = 0
+  val typography_body_italic_paragraph_spacing = 0
+  val typography_body_italic_text_case = none
+  val typography_body_italic_text_decoration = none
+  val typography_body_medium_extended_italic_font_family = Akzidenz-Grotesk Pro
+  val typography_body_medium_extended_italic_font_size = 20
+  val typography_body_medium_extended_italic_font_stretch = expanded
+  val typography_body_medium_extended_italic_font_style = italic
+  val typography_body_medium_extended_italic_font_weight = 500
+  val typography_body_medium_extended_italic_letter_spacing = 0
+  val typography_body_medium_extended_italic_line_height = 24
+  val typography_body_medium_extended_italic_paragraph_indent = 0
+  val typography_body_medium_extended_italic_paragraph_spacing = 0
+  val typography_body_medium_extended_italic_text_case = none
+  val typography_body_medium_extended_italic_text_decoration = none
+  val typography_body_super_font_family = Akzidenz-Grotesk Pro
+  val typography_body_super_font_size = 22
+  val typography_body_super_font_stretch = normal
+  val typography_body_super_font_style = normal
+  val typography_body_super_font_weight = 900
+  val typography_body_super_letter_spacing = 0
+  val typography_body_super_line_height = 26.4
+  val typography_body_super_paragraph_indent = 0
+  val typography_body_super_paragraph_spacing = 0
+  val typography_body_super_text_case = none
+  val typography_body_super_text_decoration = none
+  val typography_body_variable_font_font_family = Roboto
+  val typography_body_variable_font_font_size = 16
+  val typography_body_variable_font_font_stretch = normal
+  val typography_body_variable_font_font_style = italic
+  val typography_body_variable_font_font_weight = 500
+  val typography_body_variable_font_letter_spacing = 0
+  val typography_body_variable_font_line_height = 19.2
+  val typography_body_variable_font_paragraph_indent = 0
+  val typography_body_variable_font_paragraph_spacing = 0
+  val typography_body_variable_font_text_decoration = line-through
+}
