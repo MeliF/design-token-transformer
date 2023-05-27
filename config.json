@@ -18,27 +18,27 @@
       ]
     },
     "android": {
-      "transforms": [
-        "attribute/cti",
-        "name/cti/snake",
-        "color/hex",
-        "size/remToSp",
-        "size/remToDp"
-      ],
-      "buildPath": "build/android/src/main/res/values/",
+      "transformGroup": "android",
+      "buildPath": "build/android/",
       "files": [
         {
           "destination": "style_dictionary_colors.xml",
-          "format": "android/colors"
+          "format": "android/colors",
+          "className": "StyleDictionaryColor",
+          "type": "StyleDictionaryColorName",
+          "filter": {
+            "type": "color"
+          }
         },
         {
           "destination": "style_dictionary_size.xml",
-          "className": "StyleDictionarySizes",
-          "format": "android/dimens",
-          "type": "float",
+          "format": "android/resources",
           "filter": {
-            "type": "number"
-          }
+            "attributes": {
+              "category": "size"
+            }
+          },
+          "className": "StyleDictionarySize"
         }
       ]
     }
