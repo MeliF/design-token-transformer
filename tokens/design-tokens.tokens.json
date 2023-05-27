@@ -1,5 +1,15 @@
 {
   "sizes": {
+    "16": {
+      "description": null,
+      "value": 80,
+      "type": "dimension",
+      "extensions": {
+        "org.lukasoppermann.figmaDesignTokens": {
+          "exportKey": "size"
+        }
+      }
+    },
     "20": {
       "description": null,
       "value": 20,

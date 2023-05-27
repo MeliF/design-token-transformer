@@ -2,21 +2,22 @@
 
 <!--
   Do not edit directly
-  Generated on Sat, 27 May 2023 14:26:10 GMT
+  Generated on Sat, 27 May 2023 16:45:05 GMT
 -->
 <resources>
-  <dimen name="sizes20">20</dimen>
-  <dimen name="sizes40">40</dimen>
-  <dimen name="sizes60">40</dimen>
-  <dimen name="sizes80">16</dimen>
-  <dimen name="sizesPlainToken">200</dimen>
-  <dimen name="sizesTokenInFrame">200</dimen>
-  <dimen name="sizesTokenInGroup">200</dimen>
-  <dimen name="sizesInVariant60">60</dimen>
-  <dimen name="sizesInVariant90">90</dimen>
-  <dimen name="sizesInVariant120">120</dimen>
-  <dimen name="sizesFrame">32</dimen>
-  <dimen name="sizesRect">32</dimen>
-  <dimen name="sizesShapeInComponent">32</dimen>
+  <dimen name="sizes16">80dp</dimen>
+  <dimen name="sizes20">20dp</dimen>
+  <dimen name="sizes40">40dp</dimen>
+  <dimen name="sizes60">40dp</dimen>
+  <dimen name="sizes80">16dp</dimen>
+  <dimen name="sizesPlainToken">200dp</dimen>
+  <dimen name="sizesTokenInFrame">200dp</dimen>
+  <dimen name="sizesTokenInGroup">200dp</dimen>
+  <dimen name="sizesInVariant60">60dp</dimen>
+  <dimen name="sizesInVariant90">90dp</dimen>
+  <dimen name="sizesInVariant120">120dp</dimen>
+  <dimen name="sizesFrame">32dp</dimen>
+  <dimen name="sizesRect">32dp</dimen>
+  <dimen name="sizesShapeInComponent">32dp</dimen>
   
 </resources>
