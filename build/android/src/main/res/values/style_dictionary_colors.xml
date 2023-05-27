@@ -2,18 +2,18 @@
 
 <!--
   Do not edit directly
-  Generated on Sat, 27 May 2023 08:50:48 GMT
+  Generated on Sat, 27 May 2023 09:54:10 GMT
 -->
 <resources>
-  <color name="color_testcolor_0">#cd40ff</color>
-  <color name="color_testcolor_1">#000000</color>
-  <color name="color_colors_semi_red">#ff5f04</color>
-  <color name="color_colors_multiple_fills_0">#40ffba</color>
-  <color name="color_colors_multiple_fills_1">#000000</color>
-  <color name="color_colors_single_blue">#044aff</color>
-  <color name="color_colors_ref_blue">#044aff</color>
-  <color name="color_colors_empty">#000000</color>
-  <color name="color_colors_special_characters">#40df50</color>
-  <color name="color_colors_special_characters_nderung">#3456af</color>
+  <color name="color_testcolor_0">Color(0xffcd40ff)</color>
+  <color name="color_testcolor_1">Color(0xff000000)</color>
+  <color name="color_colors_semi_red">Color(0xffff5f04)</color>
+  <color name="color_colors_multiple_fills_0">Color(0xff40ffba)</color>
+  <color name="color_colors_multiple_fills_1">Color(0xff000000)</color>
+  <color name="color_colors_single_blue">Color(0xff044aff)</color>
+  <color name="color_colors_ref_blue">Color(0xff044aff)</color>
+  <color name="color_colors_empty">Color(0xff000000)</color>
+  <color name="color_colors_special_characters">Color(0xff40df50)</color>
+  <color name="color_colors_special_characters_nderung">Color(0xff3456af)</color>
   
 </resources>
