@@ -115,10 +115,7 @@
       },
         {
           "destination": "style_dictionary_size.xml",
-          "format": "android/resources",
-          "filter": {
-            "attributes": { "category": "size" }
-          }
+          "format": "android/resources"
         }]
     }
   }
