@@ -106,7 +106,6 @@
         }
       }]
     },
-
     "android-color": {
       "transforms": ["attribute/cti", "name/cti/camel", "color/hex"],
       "buildPath": "build/android/src/main/res/values/",
