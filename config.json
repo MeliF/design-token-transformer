@@ -1,25 +1,48 @@
 {
-  "source": ["tokens/*.json"],
+  "source": [
+    "tokens/*.json"
+  ],
   "platforms": {
     "css": {
       "transformGroup": "custom/css",
       "buildPath": "build/css/",
-      "files": [{
-        "destination": "_variables.css",
-        "format": "css/variables",
-        "filter": "validToken",
-        "options" : {
-          "showFileHeader": false
+      "files": [
+        {
+          "destination": "_variables.css",
+          "format": "css/variables",
+          "filter": "validToken",
+          "options": {
+            "showFileHeader": false
+          }
         }
-      }]
+      ]
     },
     "android": {
-      "transforms": ["attribute/cti", "name/cti/snake", "color/hex", "color/composeColor", "size/remToSp", "size/remToDp", "size/compose/remToDp"],
+      "transforms": [
+        "attribute/cti",
+        "name/cti/snake",
+        "color/hex",
+        "color/composeColor",
+        "size/remToSp",
+        "size/remToDp"
+      ],
       "buildPath": "build/android/src/main/res/values/",
-      "files": [{
-        "destination": "style_dictionary_colors.xml",
-        "format": "android/colors"
-      }]
+      "files": [
+        {
+          "destination": "style_dictionary_colors.xml",
+          "format": "android/colors"
+        },
+        {
+          "destination": "style_dictionary_colors.kt",
+          "className": "StyleDictionaryColor",
+          "format": "compose/object"
+        },
+        {
+          "destination": "style_dictionary_size.xml",
+          "className": "StyleDictionarySizes",
+          "format": "android/dimens"
+        }
+      ]
     }
   }
 }
