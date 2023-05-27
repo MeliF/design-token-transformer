@@ -534,7 +534,7 @@
     "testcolor": {
       "0": {
         "type": "color",
-        "value": "#cd40ffff",
+        "value": "#40ffffff",
         "blendMode": "normal"
       },
       "1": {
