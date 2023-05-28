@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Sun, 28 May 2023 11:20:04 GMT
+// Generated on Sun, 28 May 2023 13:19:00 GMT
 
 
 import UIKit
@@ -20,7 +20,7 @@ public class StyleDictionary {
     public static let colorColorsSingleBlue = UIColor(red: 0.016, green: 0.290, blue: 1.000, alpha: 1)
     public static let colorColorsSpecialCharacters = UIColor(red: 0.251, green: 0.875, blue: 0.314, alpha: 1)
     public static let colorColorsSpecialCharactersNderung = UIColor(red: 0.204, green: 0.337, blue: 0.686, alpha: 1)
-    public static let colorColorsecondary = UIColor(red: 0.239, green: 0.106, blue: 0.404, alpha: 1)
+    public static let colorColorsecondary = UIColor(red: 0.329, green: 0.176, blue: 0.525, alpha: 1)
     public static let colorColorsecondarytext = UIColor(red: 0.851, green: 0.851, blue: 0.851, alpha: 1)
     public static let sizes16 = 16
     public static let sizes20 = 30
