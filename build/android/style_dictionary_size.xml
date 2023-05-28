@@ -2,11 +2,12 @@
 
 <!--
   Do not edit directly
-  Generated on Sun, 28 May 2023 13:23:41 GMT
+  Generated on Sun, 28 May 2023 13:31:26 GMT
 -->
 <resources>
   <dimen name="sizes16">16dp</dimen>
-  <dimen name="sizes20">20dp</dimen>
+  <dimen name="sizes20">30dp</dimen>
+  <dimen name="sizes30">30dp</dimen>
   <dimen name="sizes40">40dp</dimen>
   <dimen name="sizesPlainToken">200dp</dimen>
   <dimen name="sizesTokenInFrame">200dp</dimen>

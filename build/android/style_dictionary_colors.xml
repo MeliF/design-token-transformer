@@ -2,14 +2,14 @@
 
 <!--
   Do not edit directly
-  Generated on Sun, 28 May 2023 13:23:41 GMT
+  Generated on Sun, 28 May 2023 13:31:26 GMT
 -->
 <resources>
-  <color name="colorsecondary">#2d3186</color>
-  <color name="colorprimary">#379dfc</color>
+  <color name="colorsecondary">#3d1c66</color>
+  <color name="colorprimary">#8237fc</color>
   <color name="colorprimarytext">#000000</color>
   <color name="colorsecondarytext">#d9d9d9</color>
-  <color name="colorsSemiRed">#ff5f04</color>
+  <color name="colorsSemiRed">#aa2406</color>
   <color name="colorsMultipleFills0">#40ffba</color>
   <color name="colorsMultipleFills1">#000000</color>
   <color name="colorsSingleBlue">#044aff</color>
