@@ -125,7 +125,7 @@
     "colorsecondary": {
       "description": "All secondary components",
       "type": "color",
-      "value": "#3d1b67ff",
+      "value": "#542d86ff",
       "blendMode": "normal",
       "extensions": {
         "org.lukasoppermann.figmaDesignTokens": {
@@ -159,7 +159,7 @@
       }
     },
     "colorsecondarytext": {
-      "description": "",
+      "description": "Color on secondary color",
       "type": "color",
       "value": "#d9d9d9ff",
       "blendMode": "normal",

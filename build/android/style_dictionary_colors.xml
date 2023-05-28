@@ -2,10 +2,10 @@
 
 <!--
   Do not edit directly
-  Generated on Sun, 28 May 2023 11:20:04 GMT
+  Generated on Sun, 28 May 2023 13:19:00 GMT
 -->
 <resources>
-  <color name="colorsecondary">#3d1b67</color>
+  <color name="colorsecondary">#542d86</color>
   <color name="colorprimary">#8237fc</color>
   <color name="colorprimarytext">#000000</color>
   <color name="colorsecondarytext">#d9d9d9</color>
