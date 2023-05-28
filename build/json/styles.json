@@ -1,6 +1,6 @@
 {
   "Sizes16": 16,
-  "Sizes20": 30,
+  "Sizes20": 20,
   "Sizes40": 40,
   "SizesPlainToken": 200,
   "SizesTokenInFrame": 200,
@@ -11,8 +11,8 @@
   "SizesFrame": 32,
   "SizesRect": 32,
   "SizesShapeInComponent": 32,
-  "ColorColorsecondary": "#542d86",
-  "ColorColorprimary": "#8237fc",
+  "ColorColorsecondary": "#2d3186",
+  "ColorColorprimary": "#379dfc",
   "ColorColorprimarytext": "#000000",
   "ColorColorsecondarytext": "#d9d9d9",
   "ColorColorsSemiRed": "#ff5f04",
