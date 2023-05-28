@@ -1,6 +1,6 @@
 :root {
   --sizes-16: 16px;
-  --sizes-20: 20px;
+  --sizes-20: 30px;
   --sizes-40: 40px;
   --sizes-plain-token: 200px;
   --sizes-token-in-frame: 200px;
@@ -11,8 +11,8 @@
   --sizes-frame: 32px;
   --sizes-rect: 32px;
   --sizes-shape-in-component: 32px;
-  --color-colorsecondary: #2d3186;
-  --color-colorprimary: #379dfc;
+  --color-colorsecondary: #3d1b67;
+  --color-colorprimary: #8237fc;
   --color-colorprimarytext: #000000;
   --color-colorsecondarytext: #d9d9d9;
   --color-colors-semi-red: rgba(255, 95, 4, 0.5);

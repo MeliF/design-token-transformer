@@ -12,7 +12,7 @@
     },
     "20": {
       "description": null,
-      "value": 20,
+      "value": 30,
       "type": "dimension",
       "extensions": {
         "org.lukasoppermann.figmaDesignTokens": {
@@ -123,9 +123,9 @@
   },
   "color": {
     "colorsecondary": {
-      "description": "",
+      "description": "All secondary components",
       "type": "color",
-      "value": "#2d3186ff",
+      "value": "#3d1b67ff",
       "blendMode": "normal",
       "extensions": {
         "org.lukasoppermann.figmaDesignTokens": {
@@ -135,9 +135,9 @@
       }
     },
     "colorprimary": {
-      "description": "",
+      "description": "All primary components",
       "type": "color",
-      "value": "#379dfcff",
+      "value": "#8237fcff",
       "blendMode": "normal",
       "extensions": {
         "org.lukasoppermann.figmaDesignTokens": {
@@ -147,7 +147,7 @@
       }
     },
     "colorprimarytext": {
-      "description": "",
+      "description": "Text on Primary color",
       "type": "color",
       "value": "#000000ff",
       "blendMode": "normal",
